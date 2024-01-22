@@ -1,0 +1,3 @@
+From Nginx
+expose 81
+copy . .
